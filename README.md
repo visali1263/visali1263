@@ -3,7 +3,7 @@
 
 [![](https://img.shields.io/badge/-@visali-%23181717?style=flat-square&logo=github)](https://github.com/visali1263)
 [![Linkedin: Visali](https://img.shields.io/badge/-@visali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/visali-v-8b4968200/)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=visali_portfolio&url=https%3A%2F%2Fxlbd.me)](https://visali1263.github.io/visali-s-portfolio/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=visali_portfolio&url=https%3A%2F%2Fxlbd.me)](https://visali1263.github.io/visali-s_portfolio/#hero)
 
 𝐼 ❤️ 𝑐𝑜𝑑𝑖𝑛𝑔!
 
