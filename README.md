@@ -7,7 +7,7 @@
 
 𝐼 ❤️ 𝑐𝑜𝑑𝑖𝑛𝑔!
 
-I am **Visali V**, student from **Bannari Amman Institute of Technology** pursuing **Information Technology**. I am a **Frontend Developer and Problem Solver**.
+I am **Visali V**, student from **Bannari Amman Institute of Technology** pursuing **Information Technology**. I am a **Software Developer and Problem Solver**. I love to work with backend stuff more.
 
 <!-- :computer: 𝙎𝙚𝙡𝙛-𝙩𝙝𝙤𝙪𝙜𝙝𝙩 𝙗𝙖𝙘𝙠-𝙚𝙣𝙙 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 𝙖𝙣𝙙 𝙘𝙤𝙢𝙥𝙚𝙩𝙞𝙩𝙞𝙫𝙚 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙚𝙧. -->
 
